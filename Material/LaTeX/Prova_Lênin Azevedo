@@ -1,0 +1,49 @@
+\documentclass[11pt, twoside, a4paper]{article}
+\usepackage[utf8]{inputenc}
+
+\begin{document}
+\begin{center}
+Prova de Física Quântica - UFES/CCENS
+
+8 de fevereiro de 2022/02
+\end{center}
+
+Nome:\dotfill
+
+Curso:\dotfill
+
+\begin{enumerate}
+\item Essa é a $1^a$ questão a ser feita quanticamente. 
+\begin{equation}
+    \psi(x,t)=A\sin(k x - \omega t)
+\end{equation}
+\begin{equation}
+    \psi^*(x,t)=A^*\sin(k x - \omega t)
+\end{equation}
+
+
+\item Essa é a $2^a$ questão a ser feita quanticamente. Usando $E=mc^2$, temos:
+\[
+K=(\gamma-1)mc^2
+\]
+
+\item Ache $\frac{dy}{dx}$ da equação:
+\[
+x\cos y + y\cos x= 1
+\]
+
+\item Ache os extremos absolutos de $f$ em $[1,5]$ se:
+\[
+f(x)=(x-2)^{2/3}
+\]
+
+\end{enumerate}
+
+\begin{center}
+\vspace{10cm}
+Boa prova!
+
+Prof. Lênin Azevedo de Azevedo
+\end{center}
+
+\end{document}
